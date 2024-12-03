@@ -1,0 +1,33 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go build files
+*.out
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Go modules
+go.sum
+
+# Database file (SQLite)
+*.db
+
+# Logs
+*.log
+
+# Ignore the .env file containing sensitive information
+.env
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
